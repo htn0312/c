@@ -1,4 +1,4 @@
-// functions file for ufo.cpp
+// functions declarations for ufo.cpp
 
 #include <vector>
 
