@@ -1,2 +1,2 @@
 # c
-C++ exercises
+My C++ exercises from codecademy
